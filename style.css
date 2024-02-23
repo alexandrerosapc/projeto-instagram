@@ -363,6 +363,10 @@ ion-icon{
     .desktop {
         display: none;
     }
+
+    .conteudo-principal{
+        width: 100%;
+    }
     
     .stories {
         background-color: #f7f5f5;
@@ -402,5 +406,9 @@ ion-icon{
         width: 22px;
         height: 22px;
         margin: 0 10px;
+    }
+
+    .post{
+        height: 100%;
     }
 }
